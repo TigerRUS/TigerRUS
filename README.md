@@ -1,2 +1,2 @@
-## C/C++ Tiger 🐯
+C/C++ Tiger 🐯
 
